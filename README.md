@@ -1,2 +1,2 @@
-[Landing](GrzegorzKozinski.github.io)
+[Landing](https://grzegorzkozinski.github.io/)
 
